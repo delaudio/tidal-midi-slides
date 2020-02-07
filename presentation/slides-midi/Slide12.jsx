@@ -65,7 +65,7 @@ export default class Slide12 extends Component {
         </Heading>
         <Terminal title="federicodelgaudio: ~(zsh)" output={[
           '-- c3 repeated 4 times over midichannel 1',
-          <div style={{ color: '#33B969'}}><br/>d1 $ n "c3 d3 e3 f3" # s "midi" # midichan 0</div>]}
+          <div style={{ color: '#33B969'}}><br/>d1 $ n "c3 c3 c3 c3" # s "midi" # midichan 0</div>]}
         />
       </Slide>
     );
