@@ -21,7 +21,8 @@ const theme = createTheme(
   },
   {
     primary: 'IBM Plex Sans',
-    secondary: 'Roboto'
+    secondary: 'Roboto',
+    tertiary: 'Arial'
   }
 );
 
