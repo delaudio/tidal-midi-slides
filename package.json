@@ -16,6 +16,10 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "@babel/runtime": "^7.1.2",
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "babel-plugin-emotion": "^10.0.27",
+    "emotion": "^10.0.27",
     "normalize.css": "8.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",

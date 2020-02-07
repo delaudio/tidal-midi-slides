@@ -1,0 +1,13 @@
+export { default as Slide1 } from './Slide1.jsx';
+export { default as Slide2 } from './Slide2.jsx';
+export { default as Slide3 } from './Slide3.jsx';
+export { default as Slide4 } from './Slide4.jsx';
+export { default as Slide5 } from './Slide5.jsx';
+export { default as Slide6 } from './Slide6.jsx';
+export { default as Slide6a } from './Slide6a.jsx';
+export { default as Slide7 } from './Slide7.jsx';
+export { default as Slide8 } from './Slide8.jsx';
+export { default as Slide9 } from './Slide9.jsx';
+export { default as Slide10 } from './Slide10.jsx';
+export { default as Slide11 } from './Slide11.jsx';
+export { default as Slide12 } from './Slide12.jsx';
