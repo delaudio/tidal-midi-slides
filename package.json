@@ -21,6 +21,7 @@
     "babel-plugin-emotion": "^10.0.27",
     "emotion": "^10.0.27",
     "normalize.css": "8.0.0",
+    "now": "^17.0.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "spectacle": "^5.5.0",
